@@ -44,7 +44,7 @@ export default {
                 }
             });
 
-            disableBodyScroll(this.$el);
+            disableBodyScroll(this.$el, { allowTouchMove: () => true });
         },
 
         destroyStacks() {

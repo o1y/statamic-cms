@@ -56,7 +56,7 @@
     "ansi-to-html": "^0.6.14",
     "autosize": "~3.0.12",
     "axios": "^0.21.2",
-    "body-scroll-lock": "^2.6.4",
+    "body-scroll-lock": "^4.0.0-beta.0",
     "codemirror": "^5.58.2",
     "cookies-js": "^1.2.2",
     "dmuploader": "file:resources/js/vendor/dmuploader",
